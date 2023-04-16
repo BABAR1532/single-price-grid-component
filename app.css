@@ -127,6 +127,7 @@ button {
     border-radius: 7px;
     border: none;
     color: white;
+    max-width: 375px;
     background-color: hsl(71, 73%, 54%);
 }
 
